@@ -12,7 +12,7 @@
 
 ## Skills
 
-[![](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat&logoColor=white&logo=visual-studio)]
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat&logoColor=white&logo=visual-studio)]()
 [![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logoColor=white&logo=go)]
 [![](https://img.shields.io/badge/-Docker-2496ed?style=flat&logoColor=white&logo=docker)]
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat&logoColor=white&logo=mysql)]
