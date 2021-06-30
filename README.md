@@ -12,22 +12,21 @@
 
 ## Skills
 
-[![](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat&logoColor=white&logo=visual-studio)]()
-[![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logoColor=white&logo=go)]()
-[![](https://img.shields.io/badge/-Docker-2496ed?style=flat&logoColor=white&logo=docker)]()
-[![](https://img.shields.io/badge/-MySQL-4479a1?style=flat&logoColor=white&logo=mysql)]()
-[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logoColor=white&logo=kubernetes)]()
-[![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
-[![](https://img.shields.io/badge/-AWS-232F3E?style=flat&logoColor=white&logo=amazon-aws)]()
-[![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=whitE)]()
-[![](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logoColor=white&logo=terraform)]()
-[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logoColor=white&logo=github-actions)]()
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]()
-[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)]()
-[![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)]()
-[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=whitE)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logoColor=white&logo=terraform)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logoColor=white&logo=github-actions)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/apaarshrm39)
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/apaarshrm39)
 <!--
 **apaarshrm39/apaarshrm39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
